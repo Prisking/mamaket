@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "221963291713",
+    "firebase_url": "https://mamaket-2c195.firebaseio.com",
+    "project_id": "mamaket-2c195",
+    "storage_bucket": "mamaket-2c195.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221963291713:android:fd085da8ff943fdf280ac0",
+        "android_client_info": {
+          "package_name": "com.mamaket.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221963291713-eq4mn8opijc6to7i2k7mc628vhnlpqim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU71gCvvB_FzeJGhMBZ1_JeUSPlK3lmw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221963291713-eq4mn8opijc6to7i2k7mc628vhnlpqim.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

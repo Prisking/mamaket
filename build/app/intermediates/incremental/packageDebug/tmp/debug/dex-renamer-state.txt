@@ -1,0 +1,4 @@
+#Wed Mar 10 08:26:32 WAT 2021
+base.0=/Users/meemah/Downloads/mamaket/mamaket-apps/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

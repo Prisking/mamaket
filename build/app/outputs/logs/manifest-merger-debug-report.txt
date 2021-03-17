@@ -1,0 +1,455 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/meemah/Downloads/mamaket/mamaket-apps/android/app/src/main/AndroidManifest.xml:1:1-58:12
+INJECTED from /Users/meemah/Downloads/mamaket/mamaket-apps/android/app/src/main/AndroidManifest.xml:1:1-58:12
+INJECTED from /Users/meemah/Downloads/mamaket/mamaket-apps/android/app/src/main/AndroidManifest.xml:1:1-58:12
+INJECTED from /Users/meemah/Downloads/mamaket/mamaket-apps/android/app/src/main/AndroidManifest.xml:1:1-58:12
+MERGED from /Users/meemah/Downloads/mamaket/mamaket-apps/android/app/src/main/AndroidManifest.xml:1:1-58:12
+MERGED from [:image_picker] /Users/meemah/Downloads/mamaket/mamaket-apps/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-22:12
+MERGED from [:flutter_plugin_android_lifecycle] /Users/meemah/Downloads/mamaket/mamaket-apps/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:geocoder] /Users/meemah/Downloads/mamaket/mamaket-apps/build/geocoder/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:location] /Users/meemah/Downloads/mamaket/mamaket-apps/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-10:12
+MERGED from [:location_web] /Users/meemah/Downloads/mamaket/mamaket-apps/build/location_web/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:firebase_messaging] /Users/meemah/Downloads/mamaket/mamaket-apps/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-20:12
+MERGED from [:url_launcher] /Users/meemah/Downloads/mamaket/mamaket-apps/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-14:12
+MERGED from [:path_provider] /Users/meemah/Downloads/mamaket/mamaket-apps/build/path_provider/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:image_cropper] /Users/meemah/Downloads/mamaket/mamaket-apps/build/image_cropper/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_paystack] /Users/meemah/Downloads/mamaket/mamaket-apps/build/flutter_paystack/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [:url_launcher_web] /Users/meemah/Downloads/mamaket/mamaket-apps/build/url_launcher_web/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.2.0-alpha03] /Users/meemah/.gradle/caches/transforms-2/files-2.1/2cd6d29097f7378293201a65e2533d9b/material-1.2.0-alpha03/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-messaging:20.0.1] /Users/meemah/.gradle/caches/transforms-2/files-2.1/0598782479d8d841f14f070d98bf7b90/jetified-firebase-messaging-20.0.1/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/bb0a94ad011365bb9b24c3f450e42b21/jetified-play-services-location-16.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-iid:20.0.1] /Users/meemah/.gradle/caches/transforms-2/files-2.1/8ae3a27e5f765ecccfa84ccab34e1473/firebase-iid-20.0.1/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-common:19.2.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/40ddb410a242560c3723114faa731f39/firebase-common-19.2.0/AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/566477192cad9be9e53ff137fdc3eff4/firebase-iid-interop-17.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/4c0b774c09d5393feb013f0dbe753af3/play-services-base-17.0.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/187fb4c1c365ae32171bd8312a35992f/play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/31a3395230a9bd928e78ed2dc5338b8e/firebase-measurement-connector-18.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/08dda63aa6024eef34fb6b14605fdb41/play-services-places-placereport-16.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/646fcaf19234d7b37b884114aa567eb2/play-services-stats-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/01c16d62205a684785b655d7ca567407/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.github.yalantis:ucrop:2.2.5] /Users/meemah/.gradle/caches/transforms-2/files-2.1/ed24323f9c34ace8300297ad879b20db/ucrop-2.2.5/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/701c33591765b03ec8ed51d702bd262d/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/2c4391f92fede1c2cb99edbe7ce84ec2/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/0d479d426be2ba1f4bdfee2f9a7aa519/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/4881302d1430cfdcaa10344523e2ce7f/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/d10fe1176fa5480b064486ece15f99c1/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/28c8df72e3e98cf2af337943db219b6d/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/5a1de8d3594afca67ad230d5d25a73b9/activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/ccbc43d824524dd386a70951e03aa19c/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/5b04b83de1601881480b117c642452b3/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/f266002780b6f62ae73a8842bc10a810/appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/a5b8095803802f17607f1ac359c588fa/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/06d80eb16b557b026bc1ef456724990c/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/6af37b0dc18acadfaf8b0344ec157d66/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/2bde3390bdc83bbff114db04030f9d39/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/31cd047ed3ec37dce69ba9f16e10a05d/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/3aaf6e5219b7f981ec263df919098c6f/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/00db72760b3662c4528b816b17c43995/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/13eb812daeca5edd5883d98298d1a9d8/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/82b463c8584fb88ea5a1f562d740c4b7/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/a78ce9b49fd39a3eac90624d04d1ee8a/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/c8f4c2580dddd9ecf64fc10bf9fbc418/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/3bf5fc05ca184d01c3bed36c84f7c6c7/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/4227c25f5adddf6ac1aa1a65c6b6f6a4/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.exifinterface:exifinterface:1.1.0-beta01] /Users/meemah/.gradle/caches/transforms-2/files-2.1/661596a01c08ad703a8600cf22b7431d/exifinterface-1.1.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/53efbc2f03bcefa36056ee4c9c629f19/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/d51e0220d8e43d4bfbf3a1c4895b8a97/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/07713a4b02ecb1ede5529340586b2906/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/ec735b528ee8f52f56a38a2f27a69a4b/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/dff04f4f27a157ea6f57a15b661fd9d7/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/b59192acc39c8e1083525bb1a0764fd3/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/1f7038ce4b9ffa8857ce05bb6a1f3e0f/annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/meemah/Downloads/mamaket/mamaket-apps/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/meemah/Downloads/mamaket/mamaket-apps/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/meemah/Downloads/mamaket/mamaket-apps/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from /Users/meemah/Downloads/mamaket/mamaket-apps/android/app/src/main/AndroidManifest.xml:2:5-30
+		INJECTED from /Users/meemah/Downloads/mamaket/mamaket-apps/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/meemah/Downloads/mamaket/mamaket-apps/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/meemah/Downloads/mamaket/mamaket-apps/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/meemah/Downloads/mamaket/mamaket-apps/android/app/src/main/AndroidManifest.xml:1:1-58:12
+		INJECTED from /Users/meemah/Downloads/mamaket/mamaket-apps/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/meemah/Downloads/mamaket/mamaket-apps/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/meemah/Downloads/mamaket/mamaket-apps/android/app/src/main/AndroidManifest.xml:1:1-58:12
+		INJECTED from /Users/meemah/Downloads/mamaket/mamaket-apps/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/meemah/Downloads/mamaket/mamaket-apps/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/meemah/Downloads/mamaket/mamaket-apps/android/app/src/main/AndroidManifest.xml:8:5-79
+MERGED from [:location] /Users/meemah/Downloads/mamaket/mamaket-apps/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-79
+MERGED from [:location] /Users/meemah/Downloads/mamaket/mamaket-apps/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from /Users/meemah/Downloads/mamaket/mamaket-apps/android/app/src/main/AndroidManifest.xml:8:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /Users/meemah/Downloads/mamaket/mamaket-apps/android/app/src/main/AndroidManifest.xml:9:5-66
+MERGED from /Users/meemah/Downloads/mamaket/mamaket-apps/android/app/src/main/AndroidManifest.xml:9:5-66
+MERGED from /Users/meemah/Downloads/mamaket/mamaket-apps/android/app/src/main/AndroidManifest.xml:9:5-66
+MERGED from [com.google.firebase:firebase-iid:20.0.1] /Users/meemah/.gradle/caches/transforms-2/files-2.1/8ae3a27e5f765ecccfa84ccab34e1473/firebase-iid-20.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:20.0.1] /Users/meemah/.gradle/caches/transforms-2/files-2.1/8ae3a27e5f765ecccfa84ccab34e1473/firebase-iid-20.0.1/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/meemah/Downloads/mamaket/mamaket-apps/android/app/src/main/AndroidManifest.xml:9:22-64
+application
+ADDED from /Users/meemah/Downloads/mamaket/mamaket-apps/android/app/src/main/AndroidManifest.xml:11:5-57:19
+MERGED from [:image_picker] /Users/meemah/Downloads/mamaket/mamaket-apps/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-20:19
+MERGED from [:image_picker] /Users/meemah/Downloads/mamaket/mamaket-apps/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-20:19
+MERGED from [:firebase_messaging] /Users/meemah/Downloads/mamaket/mamaket-apps/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-18:19
+MERGED from [:firebase_messaging] /Users/meemah/Downloads/mamaket/mamaket-apps/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-18:19
+MERGED from [:url_launcher] /Users/meemah/Downloads/mamaket/mamaket-apps/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-12:19
+MERGED from [:url_launcher] /Users/meemah/Downloads/mamaket/mamaket-apps/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-12:19
+MERGED from [:flutter_paystack] /Users/meemah/Downloads/mamaket/mamaket-apps/build/flutter_paystack/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-13:19
+MERGED from [:flutter_paystack] /Users/meemah/Downloads/mamaket/mamaket-apps/build/flutter_paystack/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-13:19
+MERGED from [com.google.android.material:material:1.2.0-alpha03] /Users/meemah/.gradle/caches/transforms-2/files-2.1/2cd6d29097f7378293201a65e2533d9b/material-1.2.0-alpha03/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.0-alpha03] /Users/meemah/.gradle/caches/transforms-2/files-2.1/2cd6d29097f7378293201a65e2533d9b/material-1.2.0-alpha03/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-messaging:20.0.1] /Users/meemah/.gradle/caches/transforms-2/files-2.1/0598782479d8d841f14f070d98bf7b90/jetified-firebase-messaging-20.0.1/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:20.0.1] /Users/meemah/.gradle/caches/transforms-2/files-2.1/0598782479d8d841f14f070d98bf7b90/jetified-firebase-messaging-20.0.1/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/bb0a94ad011365bb9b24c3f450e42b21/jetified-play-services-location-16.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/bb0a94ad011365bb9b24c3f450e42b21/jetified-play-services-location-16.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-iid:20.0.1] /Users/meemah/.gradle/caches/transforms-2/files-2.1/8ae3a27e5f765ecccfa84ccab34e1473/firebase-iid-20.0.1/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:20.0.1] /Users/meemah/.gradle/caches/transforms-2/files-2.1/8ae3a27e5f765ecccfa84ccab34e1473/firebase-iid-20.0.1/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-common:19.2.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/40ddb410a242560c3723114faa731f39/firebase-common-19.2.0/AndroidManifest.xml:12:5-24:19
+MERGED from [com.google.firebase:firebase-common:19.2.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/40ddb410a242560c3723114faa731f39/firebase-common-19.2.0/AndroidManifest.xml:12:5-24:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/566477192cad9be9e53ff137fdc3eff4/firebase-iid-interop-17.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/566477192cad9be9e53ff137fdc3eff4/firebase-iid-interop-17.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/4c0b774c09d5393feb013f0dbe753af3/play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/4c0b774c09d5393feb013f0dbe753af3/play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/187fb4c1c365ae32171bd8312a35992f/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/187fb4c1c365ae32171bd8312a35992f/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/31a3395230a9bd928e78ed2dc5338b8e/firebase-measurement-connector-18.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/31a3395230a9bd928e78ed2dc5338b8e/firebase-measurement-connector-18.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/08dda63aa6024eef34fb6b14605fdb41/play-services-places-placereport-16.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/08dda63aa6024eef34fb6b14605fdb41/play-services-places-placereport-16.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/646fcaf19234d7b37b884114aa567eb2/play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/646fcaf19234d7b37b884114aa567eb2/play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/01c16d62205a684785b655d7ca567407/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/01c16d62205a684785b655d7ca567407/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/3aaf6e5219b7f981ec263df919098c6f/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/3aaf6e5219b7f981ec263df919098c6f/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/4227c25f5adddf6ac1aa1a65c6b6f6a4/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/4227c25f5adddf6ac1aa1a65c6b6f6a4/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/3aaf6e5219b7f981ec263df919098c6f/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/meemah/Downloads/mamaket/mamaket-apps/android/app/src/main/AndroidManifest.xml:13:9-32
+	android:icon
+		ADDED from /Users/meemah/Downloads/mamaket/mamaket-apps/android/app/src/main/AndroidManifest.xml:14:9-43
+	android:name
+		ADDED from /Users/meemah/Downloads/mamaket/mamaket-apps/android/app/src/main/AndroidManifest.xml:12:9-57
+activity#com.mamaket.app.MainActivity
+ADDED from /Users/meemah/Downloads/mamaket/mamaket-apps/android/app/src/main/AndroidManifest.xml:15:9-47:20
+	android:launchMode
+		ADDED from /Users/meemah/Downloads/mamaket/mamaket-apps/android/app/src/main/AndroidManifest.xml:17:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/meemah/Downloads/mamaket/mamaket-apps/android/app/src/main/AndroidManifest.xml:20:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/meemah/Downloads/mamaket/mamaket-apps/android/app/src/main/AndroidManifest.xml:21:13-55
+	android:configChanges
+		ADDED from /Users/meemah/Downloads/mamaket/mamaket-apps/android/app/src/main/AndroidManifest.xml:19:13-163
+	android:theme
+		ADDED from /Users/meemah/Downloads/mamaket/mamaket-apps/android/app/src/main/AndroidManifest.xml:18:13-47
+	android:name
+		ADDED from /Users/meemah/Downloads/mamaket/mamaket-apps/android/app/src/main/AndroidManifest.xml:16:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from /Users/meemah/Downloads/mamaket/mamaket-apps/android/app/src/main/AndroidManifest.xml:26:13-29:15
+	android:resource
+		ADDED from /Users/meemah/Downloads/mamaket/mamaket-apps/android/app/src/main/AndroidManifest.xml:28:15-52
+	android:name
+		ADDED from /Users/meemah/Downloads/mamaket/mamaket-apps/android/app/src/main/AndroidManifest.xml:27:15-70
+meta-data#io.flutter.embedding.android.SplashScreenDrawable
+ADDED from /Users/meemah/Downloads/mamaket/mamaket-apps/android/app/src/main/AndroidManifest.xml:35:13-38:17
+	android:resource
+		ADDED from /Users/meemah/Downloads/mamaket/mamaket-apps/android/app/src/main/AndroidManifest.xml:37:15-61
+	android:name
+		ADDED from /Users/meemah/Downloads/mamaket/mamaket-apps/android/app/src/main/AndroidManifest.xml:36:15-79
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/meemah/Downloads/mamaket/mamaket-apps/android/app/src/main/AndroidManifest.xml:39:13-42:29
+action#android.intent.action.MAIN
+ADDED from /Users/meemah/Downloads/mamaket/mamaket-apps/android/app/src/main/AndroidManifest.xml:40:17-68
+	android:name
+		ADDED from /Users/meemah/Downloads/mamaket/mamaket-apps/android/app/src/main/AndroidManifest.xml:40:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/meemah/Downloads/mamaket/mamaket-apps/android/app/src/main/AndroidManifest.xml:41:17-76
+	android:name
+		ADDED from /Users/meemah/Downloads/mamaket/mamaket-apps/android/app/src/main/AndroidManifest.xml:41:27-74
+intent-filter#action:name:FLUTTER_NOTIFICATION_CLICK+category:name:android.intent.category.DEFAULT
+ADDED from /Users/meemah/Downloads/mamaket/mamaket-apps/android/app/src/main/AndroidManifest.xml:43:13-46:29
+action#FLUTTER_NOTIFICATION_CLICK
+ADDED from /Users/meemah/Downloads/mamaket/mamaket-apps/android/app/src/main/AndroidManifest.xml:44:17-69
+	android:name
+		ADDED from /Users/meemah/Downloads/mamaket/mamaket-apps/android/app/src/main/AndroidManifest.xml:44:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/meemah/Downloads/mamaket/mamaket-apps/android/app/src/main/AndroidManifest.xml:45:17-76
+	android:name
+		ADDED from /Users/meemah/Downloads/mamaket/mamaket-apps/android/app/src/main/AndroidManifest.xml:45:27-73
+activity#com.yalantis.ucrop.UCropActivity
+ADDED from /Users/meemah/Downloads/mamaket/mamaket-apps/android/app/src/main/AndroidManifest.xml:48:9-51:71
+	android:screenOrientation
+		ADDED from /Users/meemah/Downloads/mamaket/mamaket-apps/android/app/src/main/AndroidManifest.xml:50:13-49
+	android:theme
+		ADDED from /Users/meemah/Downloads/mamaket/mamaket-apps/android/app/src/main/AndroidManifest.xml:51:13-69
+	android:name
+		ADDED from /Users/meemah/Downloads/mamaket/mamaket-apps/android/app/src/main/AndroidManifest.xml:49:13-60
+meta-data#flutterEmbedding
+ADDED from /Users/meemah/Downloads/mamaket/mamaket-apps/android/app/src/main/AndroidManifest.xml:54:9-56:33
+	android:value
+		ADDED from /Users/meemah/Downloads/mamaket/mamaket-apps/android/app/src/main/AndroidManifest.xml:56:13-30
+	android:name
+		ADDED from /Users/meemah/Downloads/mamaket/mamaket-apps/android/app/src/main/AndroidManifest.xml:55:13-44
+uses-sdk
+INJECTED from /Users/meemah/Downloads/mamaket/mamaket-apps/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/meemah/Downloads/mamaket/mamaket-apps/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/meemah/Downloads/mamaket/mamaket-apps/android/app/src/main/AndroidManifest.xml
+MERGED from [:image_picker] /Users/meemah/Downloads/mamaket/mamaket-apps/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] /Users/meemah/Downloads/mamaket/mamaket-apps/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] /Users/meemah/Downloads/mamaket/mamaket-apps/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] /Users/meemah/Downloads/mamaket/mamaket-apps/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:geocoder] /Users/meemah/Downloads/mamaket/mamaket-apps/build/geocoder/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:geocoder] /Users/meemah/Downloads/mamaket/mamaket-apps/build/geocoder/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:location] /Users/meemah/Downloads/mamaket/mamaket-apps/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:location] /Users/meemah/Downloads/mamaket/mamaket-apps/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:location_web] /Users/meemah/Downloads/mamaket/mamaket-apps/build/location_web/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:location_web] /Users/meemah/Downloads/mamaket/mamaket-apps/build/location_web/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_messaging] /Users/meemah/Downloads/mamaket/mamaket-apps/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_messaging] /Users/meemah/Downloads/mamaket/mamaket-apps/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] /Users/meemah/Downloads/mamaket/mamaket-apps/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] /Users/meemah/Downloads/mamaket/mamaket-apps/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] /Users/meemah/Downloads/mamaket/mamaket-apps/build/path_provider/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] /Users/meemah/Downloads/mamaket/mamaket-apps/build/path_provider/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:image_cropper] /Users/meemah/Downloads/mamaket/mamaket-apps/build/image_cropper/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:image_cropper] /Users/meemah/Downloads/mamaket/mamaket-apps/build/image_cropper/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_paystack] /Users/meemah/Downloads/mamaket/mamaket-apps/build/flutter_paystack/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-44
+MERGED from [:flutter_paystack] /Users/meemah/Downloads/mamaket/mamaket-apps/build/flutter_paystack/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-44
+MERGED from [:url_launcher_web] /Users/meemah/Downloads/mamaket/mamaket-apps/build/url_launcher_web/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_web] /Users/meemah/Downloads/mamaket/mamaket-apps/build/url_launcher_web/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.2.0-alpha03] /Users/meemah/.gradle/caches/transforms-2/files-2.1/2cd6d29097f7378293201a65e2533d9b/material-1.2.0-alpha03/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.0-alpha03] /Users/meemah/.gradle/caches/transforms-2/files-2.1/2cd6d29097f7378293201a65e2533d9b/material-1.2.0-alpha03/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:20.0.1] /Users/meemah/.gradle/caches/transforms-2/files-2.1/0598782479d8d841f14f070d98bf7b90/jetified-firebase-messaging-20.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:20.0.1] /Users/meemah/.gradle/caches/transforms-2/files-2.1/0598782479d8d841f14f070d98bf7b90/jetified-firebase-messaging-20.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/bb0a94ad011365bb9b24c3f450e42b21/jetified-play-services-location-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/bb0a94ad011365bb9b24c3f450e42b21/jetified-play-services-location-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid:20.0.1] /Users/meemah/.gradle/caches/transforms-2/files-2.1/8ae3a27e5f765ecccfa84ccab34e1473/firebase-iid-20.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:20.0.1] /Users/meemah/.gradle/caches/transforms-2/files-2.1/8ae3a27e5f765ecccfa84ccab34e1473/firebase-iid-20.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:19.2.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/40ddb410a242560c3723114faa731f39/firebase-common-19.2.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-common:19.2.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/40ddb410a242560c3723114faa731f39/firebase-common-19.2.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/566477192cad9be9e53ff137fdc3eff4/firebase-iid-interop-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/566477192cad9be9e53ff137fdc3eff4/firebase-iid-interop-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/4c0b774c09d5393feb013f0dbe753af3/play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/4c0b774c09d5393feb013f0dbe753af3/play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/187fb4c1c365ae32171bd8312a35992f/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/187fb4c1c365ae32171bd8312a35992f/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/31a3395230a9bd928e78ed2dc5338b8e/firebase-measurement-connector-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/31a3395230a9bd928e78ed2dc5338b8e/firebase-measurement-connector-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/08dda63aa6024eef34fb6b14605fdb41/play-services-places-placereport-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/08dda63aa6024eef34fb6b14605fdb41/play-services-places-placereport-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/646fcaf19234d7b37b884114aa567eb2/play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/646fcaf19234d7b37b884114aa567eb2/play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/01c16d62205a684785b655d7ca567407/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/01c16d62205a684785b655d7ca567407/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.yalantis:ucrop:2.2.5] /Users/meemah/.gradle/caches/transforms-2/files-2.1/ed24323f9c34ace8300297ad879b20db/ucrop-2.2.5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.5] /Users/meemah/.gradle/caches/transforms-2/files-2.1/ed24323f9c34ace8300297ad879b20db/ucrop-2.2.5/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/701c33591765b03ec8ed51d702bd262d/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/701c33591765b03ec8ed51d702bd262d/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/2c4391f92fede1c2cb99edbe7ce84ec2/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/2c4391f92fede1c2cb99edbe7ce84ec2/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/0d479d426be2ba1f4bdfee2f9a7aa519/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/0d479d426be2ba1f4bdfee2f9a7aa519/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/4881302d1430cfdcaa10344523e2ce7f/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/4881302d1430cfdcaa10344523e2ce7f/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/d10fe1176fa5480b064486ece15f99c1/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/d10fe1176fa5480b064486ece15f99c1/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/28c8df72e3e98cf2af337943db219b6d/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/28c8df72e3e98cf2af337943db219b6d/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/5a1de8d3594afca67ad230d5d25a73b9/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/5a1de8d3594afca67ad230d5d25a73b9/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/ccbc43d824524dd386a70951e03aa19c/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/ccbc43d824524dd386a70951e03aa19c/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/5b04b83de1601881480b117c642452b3/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/5b04b83de1601881480b117c642452b3/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/f266002780b6f62ae73a8842bc10a810/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/f266002780b6f62ae73a8842bc10a810/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/a5b8095803802f17607f1ac359c588fa/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/a5b8095803802f17607f1ac359c588fa/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/06d80eb16b557b026bc1ef456724990c/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/06d80eb16b557b026bc1ef456724990c/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/6af37b0dc18acadfaf8b0344ec157d66/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/6af37b0dc18acadfaf8b0344ec157d66/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/2bde3390bdc83bbff114db04030f9d39/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/2bde3390bdc83bbff114db04030f9d39/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/31cd047ed3ec37dce69ba9f16e10a05d/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/31cd047ed3ec37dce69ba9f16e10a05d/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/3aaf6e5219b7f981ec263df919098c6f/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/3aaf6e5219b7f981ec263df919098c6f/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/00db72760b3662c4528b816b17c43995/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/00db72760b3662c4528b816b17c43995/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/13eb812daeca5edd5883d98298d1a9d8/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/13eb812daeca5edd5883d98298d1a9d8/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/82b463c8584fb88ea5a1f562d740c4b7/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/82b463c8584fb88ea5a1f562d740c4b7/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/a78ce9b49fd39a3eac90624d04d1ee8a/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/a78ce9b49fd39a3eac90624d04d1ee8a/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/c8f4c2580dddd9ecf64fc10bf9fbc418/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/c8f4c2580dddd9ecf64fc10bf9fbc418/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/3bf5fc05ca184d01c3bed36c84f7c6c7/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/3bf5fc05ca184d01c3bed36c84f7c6c7/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/4227c25f5adddf6ac1aa1a65c6b6f6a4/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/4227c25f5adddf6ac1aa1a65c6b6f6a4/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.1.0-beta01] /Users/meemah/.gradle/caches/transforms-2/files-2.1/661596a01c08ad703a8600cf22b7431d/exifinterface-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.1.0-beta01] /Users/meemah/.gradle/caches/transforms-2/files-2.1/661596a01c08ad703a8600cf22b7431d/exifinterface-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/53efbc2f03bcefa36056ee4c9c629f19/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/53efbc2f03bcefa36056ee4c9c629f19/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/d51e0220d8e43d4bfbf3a1c4895b8a97/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/d51e0220d8e43d4bfbf3a1c4895b8a97/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/07713a4b02ecb1ede5529340586b2906/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/07713a4b02ecb1ede5529340586b2906/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/ec735b528ee8f52f56a38a2f27a69a4b/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/ec735b528ee8f52f56a38a2f27a69a4b/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/dff04f4f27a157ea6f57a15b661fd9d7/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/dff04f4f27a157ea6f57a15b661fd9d7/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/b59192acc39c8e1083525bb1a0764fd3/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/b59192acc39c8e1083525bb1a0764fd3/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/1f7038ce4b9ffa8857ce05bb6a1f3e0f/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/1f7038ce4b9ffa8857ce05bb6a1f3e0f/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/meemah/Downloads/mamaket/mamaket-apps/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/meemah/Downloads/mamaket/mamaket-apps/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/meemah/Downloads/mamaket/mamaket-apps/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/meemah/Downloads/mamaket/mamaket-apps/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/meemah/Downloads/mamaket/mamaket-apps/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/meemah/Downloads/mamaket/mamaket-apps/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:image_picker] /Users/meemah/Downloads/mamaket/mamaket-apps/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from [:image_picker] /Users/meemah/Downloads/mamaket/mamaket-apps/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:7:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:image_picker] /Users/meemah/Downloads/mamaket/mamaket-apps/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from [:image_picker] /Users/meemah/Downloads/mamaket/mamaket-apps/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:8:22-78
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker] /Users/meemah/Downloads/mamaket/mamaket-apps/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:11:9-19:20
+	android:grantUriPermissions
+		ADDED from [:image_picker] /Users/meemah/Downloads/mamaket/mamaket-apps/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-47
+	android:authorities
+		ADDED from [:image_picker] /Users/meemah/Downloads/mamaket/mamaket-apps/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-74
+	android:exported
+		ADDED from [:image_picker] /Users/meemah/Downloads/mamaket/mamaket-apps/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from [:image_picker] /Users/meemah/Downloads/mamaket/mamaket-apps/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-82
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:image_picker] /Users/meemah/Downloads/mamaket/mamaket-apps/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-18:75
+	android:resource
+		ADDED from [:image_picker] /Users/meemah/Downloads/mamaket/mamaket-apps/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-72
+	android:name
+		ADDED from [:image_picker] /Users/meemah/Downloads/mamaket/mamaket-apps/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:17:17-67
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:location] /Users/meemah/Downloads/mamaket/mamaket-apps/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from [:location] /Users/meemah/Downloads/mamaket/mamaket-apps/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:7:22-78
+service#io.flutter.plugins.firebasemessaging.FlutterFirebaseMessagingService
+ADDED from [:firebase_messaging] /Users/meemah/Downloads/mamaket/mamaket-apps/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+	android:name
+		ADDED from [:firebase_messaging] /Users/meemah/Downloads/mamaket/mamaket-apps/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:8:18-101
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [:firebase_messaging] /Users/meemah/Downloads/mamaket/mamaket-apps/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [:firebase_messaging] /Users/meemah/Downloads/mamaket/mamaket-apps/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-78
+	android:name
+		ADDED from [:firebase_messaging] /Users/meemah/Downloads/mamaket/mamaket-apps/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:10:25-75
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:firebase_messaging] /Users/meemah/Downloads/mamaket/mamaket-apps/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:13:9-17:19
+MERGED from [com.google.firebase:firebase-iid:20.0.1] /Users/meemah/.gradle/caches/transforms-2/files-2.1/8ae3a27e5f765ecccfa84ccab34e1473/firebase-iid-20.0.1/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:20.0.1] /Users/meemah/.gradle/caches/transforms-2/files-2.1/8ae3a27e5f765ecccfa84ccab34e1473/firebase-iid-20.0.1/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-common:19.2.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/40ddb410a242560c3723114faa731f39/firebase-common-19.2.0/AndroidManifest.xml:13:9-17:35
+MERGED from [com.google.firebase:firebase-common:19.2.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/40ddb410a242560c3723114faa731f39/firebase-common-19.2.0/AndroidManifest.xml:13:9-17:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:20.0.1] /Users/meemah/.gradle/caches/transforms-2/files-2.1/8ae3a27e5f765ecccfa84ccab34e1473/firebase-iid-20.0.1/AndroidManifest.xml:31:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.2.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/40ddb410a242560c3723114faa731f39/firebase-common-19.2.0/AndroidManifest.xml:17:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.2.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/40ddb410a242560c3723114faa731f39/firebase-common-19.2.0/AndroidManifest.xml:15:13-43
+	android:name
+		ADDED from [:firebase_messaging] /Users/meemah/Downloads/mamaket/mamaket-apps/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:13:18-89
+meta-data#com.google.firebase.components:io.flutter.plugins.firebasemessaging.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_messaging] /Users/meemah/Downloads/mamaket/mamaket-apps/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-16:85
+	android:value
+		ADDED from [:firebase_messaging] /Users/meemah/Downloads/mamaket/mamaket-apps/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:16:17-82
+	android:name
+		ADDED from [:firebase_messaging] /Users/meemah/Downloads/mamaket/mamaket-apps/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:15:17-127
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher] /Users/meemah/Downloads/mamaket/mamaket-apps/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-11:74
+	android:exported
+		ADDED from [:url_launcher] /Users/meemah/Downloads/mamaket/mamaket-apps/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:10:13-37
+	android:theme
+		ADDED from [:url_launcher] /Users/meemah/Downloads/mamaket/mamaket-apps/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-71
+	android:name
+		ADDED from [:url_launcher] /Users/meemah/Downloads/mamaket/mamaket-apps/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-74
+activity#co.paystack.flutterpaystack.AuthActivity
+ADDED from [:flutter_paystack] /Users/meemah/Downloads/mamaket/mamaket-apps/build/flutter_paystack/intermediates/library_manifest/debug/AndroidManifest.xml:10:9-12:54
+	android:theme
+		ADDED from [:flutter_paystack] /Users/meemah/Downloads/mamaket/mamaket-apps/build/flutter_paystack/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-51
+	android:name
+		ADDED from [:flutter_paystack] /Users/meemah/Downloads/mamaket/mamaket-apps/build/flutter_paystack/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-68
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:20.0.1] /Users/meemah/.gradle/caches/transforms-2/files-2.1/0598782479d8d841f14f070d98bf7b90/jetified-firebase-messaging-20.0.1/AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:20.0.1] /Users/meemah/.gradle/caches/transforms-2/files-2.1/0598782479d8d841f14f070d98bf7b90/jetified-firebase-messaging-20.0.1/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:20.0.1] /Users/meemah/.gradle/caches/transforms-2/files-2.1/0598782479d8d841f14f070d98bf7b90/jetified-firebase-messaging-20.0.1/AndroidManifest.xml:29:13-82
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-iid:20.0.1] /Users/meemah/.gradle/caches/transforms-2/files-2.1/8ae3a27e5f765ecccfa84ccab34e1473/firebase-iid-20.0.1/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.1] /Users/meemah/.gradle/caches/transforms-2/files-2.1/8ae3a27e5f765ecccfa84ccab34e1473/firebase-iid-20.0.1/AndroidManifest.xml:22:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-iid:20.0.1] /Users/meemah/.gradle/caches/transforms-2/files-2.1/8ae3a27e5f765ecccfa84ccab34e1473/firebase-iid-20.0.1/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.1] /Users/meemah/.gradle/caches/transforms-2/files-2.1/8ae3a27e5f765ecccfa84ccab34e1473/firebase-iid-20.0.1/AndroidManifest.xml:24:22-65
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.0.1] /Users/meemah/.gradle/caches/transforms-2/files-2.1/8ae3a27e5f765ecccfa84ccab34e1473/firebase-iid-20.0.1/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.1] /Users/meemah/.gradle/caches/transforms-2/files-2.1/8ae3a27e5f765ecccfa84ccab34e1473/firebase-iid-20.0.1/AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:20.0.1] /Users/meemah/.gradle/caches/transforms-2/files-2.1/8ae3a27e5f765ecccfa84ccab34e1473/firebase-iid-20.0.1/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:20.0.1] /Users/meemah/.gradle/caches/transforms-2/files-2.1/8ae3a27e5f765ecccfa84ccab34e1473/firebase-iid-20.0.1/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.1] /Users/meemah/.gradle/caches/transforms-2/files-2.1/8ae3a27e5f765ecccfa84ccab34e1473/firebase-iid-20.0.1/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:20.0.1] /Users/meemah/.gradle/caches/transforms-2/files-2.1/8ae3a27e5f765ecccfa84ccab34e1473/firebase-iid-20.0.1/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:20.0.1] /Users/meemah/.gradle/caches/transforms-2/files-2.1/8ae3a27e5f765ecccfa84ccab34e1473/firebase-iid-20.0.1/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:20.0.1] /Users/meemah/.gradle/caches/transforms-2/files-2.1/8ae3a27e5f765ecccfa84ccab34e1473/firebase-iid-20.0.1/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.1] /Users/meemah/.gradle/caches/transforms-2/files-2.1/8ae3a27e5f765ecccfa84ccab34e1473/firebase-iid-20.0.1/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.0.1] /Users/meemah/.gradle/caches/transforms-2/files-2.1/8ae3a27e5f765ecccfa84ccab34e1473/firebase-iid-20.0.1/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.0.1] /Users/meemah/.gradle/caches/transforms-2/files-2.1/8ae3a27e5f765ecccfa84ccab34e1473/firebase-iid-20.0.1/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.1] /Users/meemah/.gradle/caches/transforms-2/files-2.1/8ae3a27e5f765ecccfa84ccab34e1473/firebase-iid-20.0.1/AndroidManifest.xml:42:25-78
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.2.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/40ddb410a242560c3723114faa731f39/firebase-common-19.2.0/AndroidManifest.xml:19:9-23:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.2.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/40ddb410a242560c3723114faa731f39/firebase-common-19.2.0/AndroidManifest.xml:21:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.2.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/40ddb410a242560c3723114faa731f39/firebase-common-19.2.0/AndroidManifest.xml:22:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.2.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/40ddb410a242560c3723114faa731f39/firebase-common-19.2.0/AndroidManifest.xml:23:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.2.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/40ddb410a242560c3723114faa731f39/firebase-common-19.2.0/AndroidManifest.xml:20:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/4c0b774c09d5393feb013f0dbe753af3/play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/4c0b774c09d5393feb013f0dbe753af3/play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/4c0b774c09d5393feb013f0dbe753af3/play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/4c0b774c09d5393feb013f0dbe753af3/play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/01c16d62205a684785b655d7ca567407/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/01c16d62205a684785b655d7ca567407/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/meemah/.gradle/caches/transforms-2/files-2.1/01c16d62205a684785b655d7ca567407/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
